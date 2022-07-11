@@ -1,2 +1,4 @@
 # IBM_Data_Engineering_Professional_Certification
-Data Engineering Course
+Coursera IBM Data Engineering Course
+
+![](https://komarev.com/ghpvc/?username=JasmineChhotaray&color=blue) 
